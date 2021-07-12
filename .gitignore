@@ -1,0 +1,9 @@
+env1/
+*.zip
+.DS_Store
+.idea/
+db.sqlite3
+__pycache__/
+migrations/
+unit.xml
+/venv/
